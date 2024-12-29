@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.ramixin.wtb.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BlocksMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
